@@ -1,0 +1,39 @@
+.nav a{
+	color: grey;
+	padding: 15px 10px;
+	font-size: 11;
+	font-weight: bold;
+}
+
+.nav li{
+	display: inline;
+
+	/*text-transform: uppercase; */
+}
+
+.jumbotron {
+	background-image: url("http://i.imgur.com/JJQf7Er.png");
+	height: 300px;
+	background-size: cover;
+}
+
+.jumbotron h1 {
+	color: #fff;
+}
+
+.jumbotron p {
+	color: #fff;
+}
+.jumbotron .container {
+	position: relative;
+}
+
+.more-content {
+	border-bottom: 1px solid #dbdbdb;
+	background-color: #f7f7f7;
+}
+
+.thumbnail {
+	border: none;
+}
+
