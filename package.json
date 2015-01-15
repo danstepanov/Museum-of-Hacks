@@ -1,0 +1,23 @@
+{
+  "name": "Museum-of-Hacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p0cket/Museum-of-Hacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p0cket/Museum-of-Hacks/issues"
+  },
+  "homepage": "https://github.com/p0cket/Museum-of-Hacks"
+}
